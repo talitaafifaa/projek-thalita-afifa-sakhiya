@@ -40,7 +40,7 @@ export default function HeroSection() {
           >
             Hello 
             <br />
-            <span className="text-gradient">&amp; Content Creator</span>
+            <span className="text-gradient">&amp; i'm thalita afifa sakhiya </span>
           </motion.h1>
 
           <motion.p
